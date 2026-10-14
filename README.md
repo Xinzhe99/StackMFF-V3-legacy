@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Deprecated / 已废弃 (2026-10).** This repository is no longer maintained. Its method has been merged with StackMFF V4 and redesigned into a new, unified **StackMFF V3** (all-attention, pixel-wise layer classification). The new code, weights and benchmark results will be released in a new repository, which will be linked here. Please use the new release; this code is kept for reference only.
+>
+> 本仓库已停止维护。其方法已与 StackMFF V4 合并并重新设计为新的统一版 **StackMFF V3**，新代码、权重与评测结果将在新仓库发布（届时在此处给出链接），请以新版本为准。本仓库仅作存档参考。
+
 <div align="center">
 
 # <img src="assets/stackmffv3_logo.svg" alt="StackMFF V3" height="320" style="vertical-align: middle;"/> StackMFF V3
