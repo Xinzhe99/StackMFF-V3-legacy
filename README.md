@@ -2,6 +2,10 @@
 > **Deprecated / 已废弃 (2026-10).** This repository is no longer maintained. Its method has been merged with StackMFF V4 and redesigned into a new, unified **StackMFF V3** (all-attention, pixel-wise layer classification). The new code, weights and benchmark results will be released in a new repository, which will be linked here. Please use the new release; this code is kept for reference only.
 >
 > 本仓库已停止维护。其方法已与 StackMFF V4 合并并重新设计为新的统一版 **StackMFF V3**，新代码、权重与评测结果将在新仓库发布（届时在此处给出链接），请以新版本为准。本仓库仅作存档参考。
+>
+> The old StackMFF V3 repository has been renamed to [StackMFF-V3-legacy](https://github.com/Xinzhe99/StackMFF-V3-legacy). The name **StackMFF-V3** now belongs to the new, unified release, which will become public together with the paper.
+>
+> 旧版 StackMFF V3 仓库已更名为 StackMFF-V3-legacy；StackMFF-V3 这一名称现由新的统一版使用，将随论文一同公开。
 
 <div align="center">
 
@@ -13,7 +17,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-red.svg)](https://pytorch.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-StackMFF--V3-black.svg)](https://github.com/Xinzhe99/StackMFF-V3)
+[![GitHub](https://img.shields.io/badge/GitHub-StackMFF--V3-black.svg)](https://github.com/Xinzhe99/StackMFF-V3-legacy)
 
 *Official PyTorch implementation for General Multi-focus Image Fusion Network*
 
@@ -56,7 +60,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Xinzhe99/StackMFF-V3.git
+git clone https://github.com/Xinzhe99/StackMFF-V3-legacy.git
 cd StackMFF-V3
 ```
 
@@ -81,7 +85,7 @@ pip install -r requirements.txt
 
 ## 💻 Usage
 
-The pre-trained model weights files (`stackmffv3.pth` and `stackmffv3_star.pth`) should be placed in the [weights](https://github.com/Xinzhe99/StackMFF-V3/tree/main/weights) directory.
+The pre-trained model weights files (`stackmffv3.pth` and `stackmffv3_star.pth`) should be placed in the [weights](https://github.com/Xinzhe99/StackMFF-V3-legacy/tree/main/weights) directory.
 
 ### Example for fusing an image stack
 
