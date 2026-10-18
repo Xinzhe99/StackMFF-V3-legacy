@@ -1,7 +1,7 @@
 > [!WARNING]
 > **Deprecated (October 2026).** This repository is no longer maintained. Its method has been merged with
 > StackMFF V4 and redesigned into the unified **StackMFF V3** (pixel-wise classification with cross-image
-> attention). The new code, weights, benchmark results and the paper are released in
+> attention). The maintained code, weights, evaluation toolkit and current result records are available in
 > [StackMFF-V3](https://github.com/Xinzhe99/StackMFF-V3); the overview of the whole series is on the
 > [StackMFF Series](https://github.com/Xinzhe99/StackMFF-Series) page. This code is kept for reference only.
 
